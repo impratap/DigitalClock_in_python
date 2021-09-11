@@ -1,6 +1,10 @@
 # DigitalClock_in_python
 
-This is a project for creating a Digital Clock...
+A Digital clock Project, in this project I have used the Tkinter library for GUI and Time library. First of all, I have created a title, geometry, icon bitmap, text font, background and foreground color, and border width. After that combine all of these into the label widget.
+
+And at last, created a function that used the strftime() method and called it.
+
+AIM: Aim of this project is to create a simple digital clock with less amount of code with the help of Tkinter to make it look super good for the user.
 
 For This I used some necessary library like...
 
